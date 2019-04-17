@@ -1,0 +1,7 @@
+C:\Users\Dj\source\repos\ToGetListReborn\ToGetListReborn\bin\Debug\ToGetListReborn.exe.config
+C:\Users\Dj\source\repos\ToGetListReborn\ToGetListReborn\bin\Debug\ToGetListReborn.exe
+C:\Users\Dj\source\repos\ToGetListReborn\ToGetListReborn\bin\Debug\ToGetListReborn.pdb
+C:\Users\Dj\source\repos\ToGetListReborn\ToGetListReborn\obj\Debug\ToGetListReborn.csprojAssemblyReference.cache
+C:\Users\Dj\source\repos\ToGetListReborn\ToGetListReborn\obj\Debug\ToGetListReborn.csproj.CoreCompileInputs.cache
+C:\Users\Dj\source\repos\ToGetListReborn\ToGetListReborn\obj\Debug\ToGetListReborn.exe
+C:\Users\Dj\source\repos\ToGetListReborn\ToGetListReborn\obj\Debug\ToGetListReborn.pdb
